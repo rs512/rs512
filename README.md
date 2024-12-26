@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rs512
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in learning to code and more!
 - 🌱 I’m currently learning Python and Go
 
 
