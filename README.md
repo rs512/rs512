@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @rs512
 - 👀 I’m interested in learning to code and more!
 - 🌱 I’m currently learning Python and Go
+- i am starting with shell and vs code
+
 
 
 <!---
